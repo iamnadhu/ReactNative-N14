@@ -5,8 +5,6 @@ const HomeScreen = ({ navigation }) => {
     return (
         <View style={styles.container}>
             <ScrollView>
-                <Text style={styles.text}> Sessions Order! </Text>
-
                 <View style={styles.containerSub}>
                     <Text style={{ fontSize: 15 }}> 01. </Text>
                     <Button title='My First App' onPress={() => navigation.navigate('MyFirstApp')} />
@@ -49,25 +47,38 @@ const HomeScreen = ({ navigation }) => {
 
                 <View style={styles.containerSub}>
                     <Text style={{ fontSize: 15 }}> 09. </Text>
-                    <Button title='Touchable Opacity' onPress={() => navigation.navigate('TouchableOpacity')} />
+                    <Button title='Counter (Using useState)' onPress={() => navigation.navigate('CounterUseState')} />
                 </View>
 
                 <View style={styles.containerSub}>
                     <Text style={{ fontSize: 15 }}> 10. </Text>
-                    <Button title='Touchable Opacity' onPress={() => navigation.navigate('TouchableOpacity')} />
+                    <Button title='Counter (Using Reducer)' onPress={() => navigation.navigate('CounterReducer')} />
                 </View>
 
-                <Text> 16. Counter Screen </Text>
-                <Text> 17. Color Screen </Text>
-                <Text> 18. Color Screen 2 </Text>
-                <Text> 19. Square Screen </Text>
-                <Text> 20. Color Counter </Text>
-                <Text> 21. Square Screen 2 </Text>
-                <Text> 22. Counter Screen Exercise </Text>
-                <Text> 23. Text Screen </Text>
-                <Text> 24. Box Screen </Text>
-                <Text> 25. Box Screen 2 </Text>
-                <Text> 26. Box Screen Exercise </Text>
+                <View style={styles.containerSub}>
+                    <Text style={{ fontSize: 15 }}> 11. </Text>
+                    <Button title='Color' onPress={() => navigation.navigate('Color')} />
+                </View>
+
+                <View style={styles.containerSub}>
+                    <Text style={{ fontSize: 15 }}> 12. </Text>
+                    <Button title='Square (Using useState)' onPress={() => navigation.navigate('SquareUseState')} />
+                </View>
+
+                <View style={styles.containerSub}>
+                    <Text style={{ fontSize: 15 }}> 13. </Text>
+                    <Button title='Square (Using Reducer)' onPress={() => navigation.navigate('SquareReducer')} />
+                </View>
+
+                <View style={styles.containerSub}>
+                    <Text style={{ fontSize: 15 }}> 14. </Text>
+                    <Button title='Login' onPress={() => navigation.navigate('Login')} />
+                </View>
+
+                <View style={styles.containerSub}>
+                    <Text style={{ fontSize: 15 }}> 15. </Text>
+                    <Button title='Box' onPress={() => navigation.navigate('Box')} />
+                </View>
             </ScrollView>
         </View>
     );
@@ -77,10 +88,6 @@ const styles = StyleSheet.create({
     container: {
         margin: 15,
         flex: 1
-    },
-    text: {
-        fontSize: 30,
-        marginBottom: 10
     },
     containerSub: {
         marginBottom: 10,
