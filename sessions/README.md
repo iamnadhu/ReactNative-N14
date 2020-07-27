@@ -1,7 +1,7 @@
 ## 2) Sessions!
 
 ### SCREEN SHOT:
-## IOS:
+#### IOS Screens:
 ![Sessions](https://github.com/iamnadhu/react-native/blob/master/sessions/screenshots/ios/01-home-screen.png)
 ![Sessions](https://github.com/iamnadhu/react-native/blob/master/sessions/screenshots/ios/02-my-first-app-screen.png)
 ![Sessions](https://github.com/iamnadhu/react-native/blob/master/sessions/screenshots/ios/03-components-screen.png)
@@ -20,7 +20,7 @@
 ![Sessions](https://github.com/iamnadhu/react-native/blob/master/sessions/screenshots/ios/16-login-screen-2.png)
 ![Sessions](https://github.com/iamnadhu/react-native/blob/master/sessions/screenshots/ios/17-box-screen.png)
 
-## Android:
+#### Android Screens:
 ![Sessions](https://github.com/iamnadhu/react-native/blob/master/sessions/screenshots/android/01-home-screen.png)
 ![Sessions](https://github.com/iamnadhu/react-native/blob/master/sessions/screenshots/android/02-my-first-app-screen.png)
 ![Sessions](https://github.com/iamnadhu/react-native/blob/master/sessions/screenshots/android/03-components-screen.png)
