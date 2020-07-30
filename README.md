@@ -8,5 +8,5 @@
 >   6. RN Complete Guide (YouTube) 
 
 ## 1) My First App!
-![My First App](https://github.com/iamnadhu/react-native/blob/master/my-first-app/screenshot/1.png)
-![My First App](https://github.com/iamnadhu/react-native/blob/master/my-first-app/screenshot/2.png)
+![Screen 1](https://github.com/iamnadhu/react-native/blob/master/screenshot/1.png)
+![Screen 1](https://github.com/iamnadhu/react-native/blob/master/screenshot/2.png)
