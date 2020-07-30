@@ -1,5 +1,5 @@
 # React Native: Tutorials
-> My Projects Order!
+> Tutorials Order!
 > 1. My First App!
 > 2. Sessions!
 
