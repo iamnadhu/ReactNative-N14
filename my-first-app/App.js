@@ -10,12 +10,21 @@ export default function App() {
         {outputText}
       </Text>
 
-      <Button
-        title='Submit'
-        onPress={() =>
-          setOutputText('Welcome to React Native!')
-        }
-      />
+      <View style={styles.containerSub}>
+        <Button
+          title='Reset'
+          onPress={() =>
+            setOutputText('My First App!')
+          }
+        />
+
+        <Button
+          title='Submit'
+          onPress={() =>
+            setOutputText('Welcome to React Native!')
+          }
+        />
+      </View>
     </View>
   );
 };
@@ -25,7 +34,13 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: '#fff',
     alignItems: 'center',
+    justifyContent: 'center'
+  },
+  containerSub: {
+    backgroundColor: '#fff',
+    alignItems: 'center',
     justifyContent: 'center',
+    flexDirection: 'row'
   },
   text: {
     fontSize: 30,
