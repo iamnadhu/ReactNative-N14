@@ -1,7 +1,7 @@
 # React Native: Tutorials
-> Tutorials Order!
-> 1. My First App!
-> 2. Sessions!
+> Tutorials Order:
+> 1. My First App
+> 2. Sessions
 
 > 1) My First App ([link](https://docs.google.com/document/d/1zEoQoI7JFDOi0rgrq7XMID2Cy04cx2KUadD0qY-bxjY/edit?usp=sharing))
 >
