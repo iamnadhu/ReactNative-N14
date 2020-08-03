@@ -1,5 +1,4 @@
 # React Native: Tutorials
-[link](https://docs.google.com/spreadsheets/d/1EyOuV3Z4CSo_A02GWBZ7Q4ZXi3llgwb6Cmyskw8VBGc/edit?usp=sharing)
 > Tutorials Order:
 > 01. My First App
 > 02. Components
