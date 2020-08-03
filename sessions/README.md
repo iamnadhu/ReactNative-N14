@@ -1,15 +1,18 @@
 # React Native: Tutorials
+
+
 > Sessions Order:
-> 01. My First App
-> 02. Components
-> 03. Flat List
-> 04. Button / Touchable Opacity
-> 05. Image
-> 06. Counter
-> 07. Colors
-> 08. Square
-> 09. Box
+> 1. My First App
+> 2. Components
+> 3. Flat List
+> 4. Button / Touchable Opacity
+> 5. Image
+> 6. Counter
+> 7. Colors
+> 8. Square
+> 9. Box
 > 10. Login
+
 
 > 01) My First App ([link](https://docs.google.com/document/d/1zEoQoI7JFDOi0rgrq7XMID2Cy04cx2KUadD0qY-bxjY/edit?usp=sharing))
 >
