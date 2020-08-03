@@ -74,3 +74,5 @@
 > 10) Login ([link](https://docs.google.com/document/d/1FEPRqEIN1tlGg85gP369_eUA6hedveYEqDN4vCaCPm8/edit?usp=sharing))
 >
 > ![Screen](https://github.com/iamnadhu/react-native/blob/master/screenshot/25.png)
+> ![Screen](https://github.com/iamnadhu/react-native/blob/master/screenshot/26.png)
+> ![Screen](https://github.com/iamnadhu/react-native/blob/master/screenshot/27.png)
