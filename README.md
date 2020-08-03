@@ -48,9 +48,9 @@
 > ![Screen 7](https://github.com/iamnadhu/react-native/blob/master/screenshot/13.png)
 
 
-> 07) Colors ([link](https://docs.google.com/document/d/1q6vRDsWSYGQNhmMxv921snqlXxcUn4wAJndvErOzw6g/edit?usp=sharing))
+> 07) Colors ([link](https://docs.google.com/document/d/1dhehXI2y6BtCJSZMxPUHtrAjVf6dm23T7UntK6n82xk/edit?usp=sharing))
 >
-> ![Screen](https://github.com/iamnadhu/react-native/blob/master/screenshot/4.png)
+> ![Screen](https://github.com/iamnadhu/react-native/blob/master/screenshot/14.png)
 
 
 > 08) Square ([link](https://docs.google.com/document/d/1q6vRDsWSYGQNhmMxv921snqlXxcUn4wAJndvErOzw6g/edit?usp=sharing))
