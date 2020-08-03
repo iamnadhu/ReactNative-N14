@@ -59,12 +59,11 @@
 > ![Screen 2](https://github.com/iamnadhu/react-native/blob/master/screenshot/16.png)
 > ![Screen 3](https://github.com/iamnadhu/react-native/blob/master/screenshot/17.png)
 > ![Screen 4](https://github.com/iamnadhu/react-native/blob/master/screenshot/18.png)
-> ![Screen 5](https://github.com/iamnadhu/react-native/blob/master/screenshot/18.png)
-> ![Screen 6](https://github.com/iamnadhu/react-native/blob/master/screenshot/19.png)
-> ![Screen 7](https://github.com/iamnadhu/react-native/blob/master/screenshot/20.png)
+> ![Screen 5](https://github.com/iamnadhu/react-native/blob/master/screenshot/19.png)
+> ![Screen 6](https://github.com/iamnadhu/react-native/blob/master/screenshot/20.png)
 > ![Screen 7](https://github.com/iamnadhu/react-native/blob/master/screenshot/21.png)
-> ![Screen 7](https://github.com/iamnadhu/react-native/blob/master/screenshot/22.png)
-> ![Screen 7](https://github.com/iamnadhu/react-native/blob/master/screenshot/23.png)
+> ![Screen 8](https://github.com/iamnadhu/react-native/blob/master/screenshot/22.png)
+> ![Screen 9](https://github.com/iamnadhu/react-native/blob/master/screenshot/23.png)
 
 
 > 09) Box ([link](https://docs.google.com/document/d/1q6vRDsWSYGQNhmMxv921snqlXxcUn4wAJndvErOzw6g/edit?usp=sharing))
