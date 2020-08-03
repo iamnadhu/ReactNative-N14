@@ -5,7 +5,7 @@ import ColorCounter from '../components/ColorCounter';
 
 const COLOR_INCREMENT = 15
 
-export default function App() {
+const SquareUseStateScreen = () => {
     const [red, setRed] = useState(0);
     const [green, setGreen] = useState(0);
     const [blue, setBlue] = useState(0);
@@ -72,3 +72,5 @@ const styles = StyleSheet.create({
         alignSelf: 'center'
     }
 });
+
+export default SquareUseStateScreen
