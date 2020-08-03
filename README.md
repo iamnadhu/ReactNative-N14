@@ -32,7 +32,7 @@
 > ![Screen](https://github.com/iamnadhu/react-native/blob/master/screenshot/5.png)
 
 
-> 05) Image ([link](https://docs.google.com/document/d/1q6vRDsWSYGQNhmMxv921snqlXxcUn4wAJndvErOzw6g/edit?usp=sharing))
+> 05) Image ([link](https://docs.google.com/document/d/1_XM27aP2rpEUO94Rc9MDhU19luP4q-63ngep8Feyrxw/edit?usp=sharing))
 >
 > ![Screen](https://github.com/iamnadhu/react-native/blob/master/screenshot/4.png)
 
