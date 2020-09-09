@@ -1,4 +1,4 @@
-# React Native [<img src="https://github.com/iamnadhu/n14-icons/blob/master/react-native-icon.png">](https://github.com/iamnadhu/n14-android)
+# React Native [<img src="https://github.com/iamnadhu/n14-icons/blob/master/react-native-icon.png">](https://github.com/iamnadhu/n14-react-native)
 Created by [Nadhu](https://github.com/iamnadhu)
 
 This is a small coding world for building your own 'Android' and 'iOS' Mobile Applications using 'Java Script' Language and 'Visual Studio Code (VSCode)' IDE.
@@ -14,9 +14,9 @@ This Section includes three categories:
 ```
 
 
-## Tutorials [<img src="https://github.com/iamnadhu/n14-icons/blob/master/tutorials-icon.png">](https://github.com/iamnadhu/n14-android)
+## Tutorials [<img src="https://github.com/iamnadhu/n14-icons/blob/master/tutorials-icon.png">](https://github.com/iamnadhu/n14-react-native)
 
-> 01. My First App ([link](https://github.com/iamnadhu/n14-android/tree/master/tutorials/My%20First%20App))
+> 01. My First App ([link](https://github.com/iamnadhu/n14-react-native/tree/master/tutorials/My%20First%20App))
 >
 > 02. Components App
 >
@@ -37,7 +37,7 @@ This Section includes three categories:
 > 10. Login App
 
 
-## Sessions [<img src="https://github.com/iamnadhu/n14-icons/blob/master/sessions-icon.png">](https://github.com/iamnadhu/n14-android)
+## Sessions [<img src="https://github.com/iamnadhu/n14-icons/blob/master/sessions-icon.png">](https://github.com/iamnadhu/n14-react-native)
 
 > 01. App
 >
@@ -50,7 +50,7 @@ This Section includes three categories:
 > 05. App
 
 
-## Projects [<img src="https://github.com/iamnadhu/n14-icons/blob/master/projects-icon.png">](https://github.com/iamnadhu/n14-android)
+## Projects [<img src="https://github.com/iamnadhu/n14-icons/blob/master/projects-icon.png">](https://github.com/iamnadhu/n14-react-native)
 
 > 01. Restaurant App
 >
@@ -81,5 +81,5 @@ Show your support!
 Please ⭐️   this repository if this section helped you!
 
 
-## License [<img src="https://github.com/iamnadhu/n14-icons/blob/master/license-icon.png">](https://github.com/iamnadhu/n14-android)
+## License [<img src="https://github.com/iamnadhu/n14-icons/blob/master/license-icon.png">](https://github.com/iamnadhu/n14-react-native)
 Copyright © 2020 [Nadhu](https://github.com/iamnadhu)
