@@ -1,7 +1,8 @@
 # React Native [<img src="https://github.com/iamnadhu/n14-icons/blob/master/react-native-icon.png">](https://github.com/iamnadhu/n14-react-native)
 Created by [Nadhu](https://github.com/iamnadhu)
 
-#### IN PROGRESS
+This is a small coding world for building your own 'Android' and 'iOS' Mobile Applications using 'Java Script' Language and 'Visual Studio Code (VSCode)' IDE.
+
 
 ## Author [<img src="https://github.com/iamnadhu/n14-icons/blob/master/auther-icon.png">](https://github.com/iamnadhu)
 Created by [Nadhu](https://github.com/iamnadhu)
