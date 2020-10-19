@@ -1,4 +1,4 @@
-# React Native - IN PROGRESS [<img src="https://github.com/iamnadhu/n14-icons/blob/master/react-native-icon.png">](https://github.com/iamnadhu/n14-react-native)
+# React Native - IN PROGRESS [<img src="https://github.com/iamnadhu/n14-icons/blob/master/react-native-icon.png">](https://github.com/iamnadhu/ReactNative-N14)
 Created by [Nadhu](https://github.com/iamnadhu)
 
 This is a small coding world for building your own 'Android' and 'iOS' Mobile Applications using 'Java Script' Language and 'Visual Studio Code (VSCode)' IDE.
@@ -22,5 +22,5 @@ Show your support!
 Please ⭐️   this repository if this section helped you!
 
 
-## License [<img src="https://github.com/iamnadhu/n14-icons/blob/master/license-icon.png">](https://github.com/iamnadhu/n14-react-native)
+## License [<img src="https://github.com/iamnadhu/n14-icons/blob/master/license-icon.png">](https://github.com/iamnadhu/ReactNative-N14)
 Copyright © 2020 [Nadhu](https://github.com/iamnadhu)
