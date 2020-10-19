@@ -1,67 +1,7 @@
 # React Native [<img src="https://github.com/iamnadhu/n14-icons/blob/master/react-native-icon.png">](https://github.com/iamnadhu/n14-react-native)
 Created by [Nadhu](https://github.com/iamnadhu)
 
-This is a small coding world for building your own 'Android' and 'iOS' Mobile Applications using 'Java Script' Language and 'Visual Studio Code (VSCode)' IDE.
-
-```
-This Section includes three categories:
-1. Tutorials
-      It's mainly about basic react native (eg: FlatList, Components etc...)
-2. Sessions
-      It's focussed on advanced react native (eg: Tap Gesture, Firebase Auth, Push Notifications etc...)
-3. Projects
-      This section contains simple projects in daily life (eg: Chat Application, Shopping Cart, Restaurant App etc...) 
-```
-
-
-## Tutorials [<img src="https://github.com/iamnadhu/n14-icons/blob/master/tutorials-icon.png">](https://github.com/iamnadhu/n14-react-native)
-
-> 01. My First App ([link](https://github.com/iamnadhu/n14-react-native/tree/master/tutorials/My%20First%20App))
->
-> 02. Components App
->
-> 03. Flat List App
->
-> 04. Button / Touchable Opacity App
->
-> 05. Image App
->
-> 06. Counter App
->
-> 07. Colors App
->
-> 08. Square App
->
-> 09. Box App
->
-> 10. Login App
-
-
-## Sessions [<img src="https://github.com/iamnadhu/n14-icons/blob/master/sessions-icon.png">](https://github.com/iamnadhu/n14-react-native)
-
-> 01. App
->
-> 02. App
->
-> 03. App
->
-> 04. App
->
-> 05. App
-
-
-## Projects [<img src="https://github.com/iamnadhu/n14-icons/blob/master/projects-icon.png">](https://github.com/iamnadhu/n14-react-native)
-
-> 01. Restaurant App
->
-> 02. Blog App
->
-> 03. App
->
-> 04. App
->
-> 05. App
-
+#### IN PROGRESS
 
 ## Author [<img src="https://github.com/iamnadhu/n14-icons/blob/master/auther-icon.png">](https://github.com/iamnadhu)
 Created by [Nadhu](https://github.com/iamnadhu)
