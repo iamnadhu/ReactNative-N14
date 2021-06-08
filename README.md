@@ -1,7 +1,7 @@
 # iOS [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/ios-icon.png">](https://github.com/iamnadhu/iOS-N14)
 Created by [Nadir Shah (Nadhu)](https://github.com/iamnadhu)
 
-This is an iOS mobile application development workspace.
+This is a 'React Native' mobile application development workspace.
 
 
 ```
