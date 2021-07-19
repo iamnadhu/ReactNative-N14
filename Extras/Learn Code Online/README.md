@@ -1,8 +1,8 @@
-# Chat App [<img src="https://github.com/iamnadhu/ReactNative/blob/master/Resources/react-native-icon.png">](https://github.com/iamnadhu/ReactNative/tree/master/Projects/Chat%20App)
+# Learn Code Online [<img src="https://github.com/iamnadhu/ReactNative/blob/master/Resources/react-native-icon.png">](https://github.com/iamnadhu/ReactNative/tree/master/Extras/Learn%20Code%20Online)
 Created by [Nadhu](https://linktr.ee/iamnadhu)
 
 
-## Project Includes [<img src="https://github.com/iamnadhu/ReactNative/blob/master/Resources/projects-icon.png">](https://github.com/iamnadhu/ReactNative/tree/master/Projects/Chat%20App)
+## Project Includes [<img src="https://github.com/iamnadhu/ReactNative/blob/master/Resources/projects-icon.png">](https://github.com/iamnadhu/ReactNative/tree/master/Extras/Learn%20Code%20Online)
 
 ### Components / Widgets Used:
 ```
@@ -44,5 +44,5 @@ Show your support!
 Please ⭐️   this repository if this section helped you!
 
 
-## License [<img src="https://github.com/iamnadhu/ReactNative/blob/master/Resources/license-icon.png">](https://github.com/iamnadhu/ReactNative/tree/master/Projects/Chat%20App)
+## License [<img src="https://github.com/iamnadhu/ReactNative/blob/master/Resources/license-icon.png">](https://github.com/iamnadhu/ReactNative/tree/master/Extras/Learn%20Code%20Online)
 Copyright © 2021-2022 [Nadhu](https://linktr.ee/iamnadhu)
