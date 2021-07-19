@@ -1,7 +1,7 @@
 # Flutter [<img src="https://github.com/iamnadhu/Flutter/blob/main/Resources/flutter-icon.png">](https://github.com/iamnadhu/Flutter)
 Created by [Nadhu](https://linktr.ee/iamnadhu)
 
-This is a 'Flutter' mobile application development workspace.
+This is a 'React Native' mobile application workspace.
 
 
 ```
