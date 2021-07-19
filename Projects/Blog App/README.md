@@ -1,4 +1,4 @@
-# Restaurant App [<img src="https://github.com/iamnadhu/ReactNative/blob/master/Resources/react-native-icon.png">](https://github.com/iamnadhu/ReactNative/tree/master/Projects/Blog%20App)
+# Blog App [<img src="https://github.com/iamnadhu/ReactNative/blob/master/Resources/react-native-icon.png">](https://github.com/iamnadhu/ReactNative/tree/master/Projects/Blog%20App)
 Created by [Nadhu](https://linktr.ee/iamnadhu)
 
 
