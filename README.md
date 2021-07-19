@@ -48,7 +48,7 @@ This repository consist of four categories:
 
 ### #04 Extras [<img src="https://github.com/iamnadhu/ReactNative/blob/master/Resources/extras-icon.png">](https://github.com/iamnadhu/ReactNative)
 >
-> [01. Udemy](https://github.com/iamnadhu/ReactNative/tree/master/Extras/Udemy)
+> [01. Learn Code Online](https://github.com/iamnadhu/ReactNative/tree/master/Extras/Learn%20Code%20Online)
 >
 
 
