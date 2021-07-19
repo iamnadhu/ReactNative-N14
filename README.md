@@ -1,7 +1,7 @@
 # React Native [<img src="https://github.com/iamnadhu/ReactNative/tree/master/Resources/react-native-icon.png">](https://github.com/iamnadhu/ReactNative)
 Created by [Nadhu](https://linktr.ee/iamnadhu)
 
-This is a 'React Native' mobile application development workspace.
+This is a 'React Native' mobile application workspace.
 
 
 ```
