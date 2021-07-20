@@ -84,6 +84,9 @@ Step #4: Type 'npx pod-install ios' OR 'cd ios && pod install && cd ..'
 
 Step #5: Type 'npx react-native start'
 [FYI: To start 'React Native Metro']
+
+Step #6: Press 'Ctrl + C'
+[FYI: Stop / Break the 'Terminal']
 ```
 
 ### b) Steps to run on an 'iOS Simulator' / 'Physical Device'
@@ -99,6 +102,9 @@ Step #4: Type 'npx react-native run-ios'
 
 Step #5: Type 'npx react-native run-ios --simulator="iPhone 12 Pro Max"'
 [FYI: Run on a specified 'iOS Simulator' / 'Physical Device', Here it's 'iPhone 12 Pro Max']
+
+Step #6: Press 'Ctrl + C'
+[FYI: Stop / Break the 'Terminal']
 ```
 
 ### c) Steps to run on an 'Android Emulator' / 'Physical Device'
@@ -111,6 +117,9 @@ Step #2: Type 'emulator -avd Pixel'
 
 Step #3: Type 'npx react-native run-android'
 [FYI: Run on 'Android Emulator' / 'Physical Device']
+
+Step #4: Press 'Ctrl + C'
+[FYI: Stop / Break the 'Terminal']
 ```
 
 
