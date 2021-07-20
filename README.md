@@ -4,38 +4,84 @@ Created by [Nadhu](https://linktr.ee/iamnadhu)
 This is a 'React Native' mobile application workspace.
 
 
-```
-This repository consist of four categories:
+## #1 Introduction [<img src="https://github.com/iamnadhu/ReactNative/blob/master/Resources/introduction-icon.png">](https://github.com/iamnadhu/ReactNative)
 
-#01. Core:
+```
+a) Steps to run a project
+
+b) Steps to run on an 'iOS Simulator' / 'Physical Device'
+
+c) Steps to run on an 'Android Emulator' / 'Physical Device'
+```
+
+### a) Steps to run a project
+```
+step #1: Clone / download your project.
+
+step #2: Make sure you are in the project main folder.
+[FYI: you can see folders / files such as 'android', 'ios', 'App.js', 'index.js' etc... 
+
+step #3: Install 'Node' files / libraries / dependences.
+[FYI: Type 'nnpm install']
+
+step #4: Install 'Pod' files / libraries / dependences.
+[FYI: Type 'npx pod-install ios' OR 'cd ios && pod install && cd ..']
+```
+
+### b) Steps to run on an 'iOS Simulator' / 'Physical Device'
+```
+step #1: Type 'xcrun simctl list devices'
+[FYI: List all 'iOS Simulators' / 'Physical Devices']
+
+step #2: Type 'npx react-native run-ios'
+[FYI: Run on iOS Devices/Simulators, Default will be 'iPhone 11']
+
+step #3: Type 'npx react-native run-ios --simulator="iPhone 12 Pro"'
+[FYI: Run on a specified 'iOS Simulator' / 'Physical Device', Here it's 'iPhone 12 Pro']
+```
+
+### c) Steps to run on an 'Android Emulator' / 'Physical Device'
+```
+step #1: Type 'adb devices'
+[FYI: List all 'Android Emulators' / 'Physical Devices']
+
+step #2: Type 'react-native run-android'
+[FYI: Run on Android Devices/Emulators]
+```
+
+
+## #2 Repository contains [<img src="https://github.com/iamnadhu/ReactNative/blob/master/Resources/repository-icon.png">](https://github.com/iamnadhu/ReactNative)
+
+```
+A) Core:
       Widgets, View, List View etc...
 
-#02. Advance:
+B) Advance:
       JSON Parsing, Grid View, Stack, Alert Dialog, Firebase etc...
 
-#03. Projects:
+C) Projects:
       Chat Application, Shopping Cart, Restaurant App etc...
 
-#04. Extras:
+D) Extras:
       Learning references / extras related to 'React Native' mobile application development or resources used such as Udemy, Youtube, Medium etc...
 ```
 
 
-### #01 Core [<img src="https://github.com/iamnadhu/ReactNative/blob/master/Resources/tutorials-icon.png">](https://github.com/iamnadhu/ReactNative)
+### A) Core [<img src="https://github.com/iamnadhu/ReactNative/blob/master/Resources/tutorials-icon.png">](https://github.com/iamnadhu/ReactNative)
 >
 > [01. My First App](https://github.com/iamnadhu/ReactNative/tree/master/Core/My%20First%20App)
 >
 > [02. Login UI App](https://github.com/iamnadhu/ReactNative/tree/master/Core/Login%20UI%20App)
 >
 
-### #02 Advance [<img src="https://github.com/iamnadhu/ReactNative/blob/master/Resources/sessions-icon.png">](https://github.com/iamnadhu/ReactNative)
+### B) Advance [<img src="https://github.com/iamnadhu/ReactNative/blob/master/Resources/sessions-icon.png">](https://github.com/iamnadhu/ReactNative)
 >
 > [01. Touch App](https://github.com/iamnadhu/ReactNative/tree/master/Advance/Touch%20App)
 >
 > [02. Swipe App](https://github.com/iamnadhu/ReactNative/tree/master/Advance/Swipe%20App)
 >
 
-### #03 Projects [<img src="https://github.com/iamnadhu/ReactNative/blob/master/Resources/projects-icon.png">](https://github.com/iamnadhu/ReactNative)
+### C) Projects [<img src="https://github.com/iamnadhu/ReactNative/blob/master/Resources/projects-icon.png">](https://github.com/iamnadhu/ReactNative)
 >
 > [01. Chat App](https://github.com/iamnadhu/ReactNative/tree/master/Projects/Chat%20App)
 >
@@ -46,7 +92,7 @@ This repository consist of four categories:
 > [04. Blog App](https://github.com/iamnadhu/ReactNative/tree/master/Projects/Blog%20App)
 >
 
-### #04 Extras [<img src="https://github.com/iamnadhu/ReactNative/blob/master/Resources/extras-icon.png">](https://github.com/iamnadhu/ReactNative)
+### D) Extras [<img src="https://github.com/iamnadhu/ReactNative/blob/master/Resources/extras-icon.png">](https://github.com/iamnadhu/ReactNative)
 >
 > [01. Learn Code Online](https://github.com/iamnadhu/ReactNative/tree/master/Extras/Learn%20Code%20Online)
 >
