@@ -34,7 +34,7 @@ step #1: Type 'xcrun simctl list devices'
 [FYI: List all 'iOS Simulators' / 'Physical Devices']
 
 step #2: Type 'npx react-native run-ios'
-[FYI: Run on iOS Devices/Simulators, Default will be 'iPhone 11']
+[FYI: Run on 'iOS Simulator' / 'Physical Device', Default will be 'iPhone 12']
 
 step #3: Type 'npx react-native run-ios --simulator="iPhone 12 Pro"'
 [FYI: Run on a specified 'iOS Simulator' / 'Physical Device', Here it's 'iPhone 12 Pro']
@@ -46,7 +46,7 @@ step #1: Type 'adb devices'
 [FYI: List all 'Android Emulators' / 'Physical Devices']
 
 step #2: Type 'react-native run-android'
-[FYI: Run on Android Devices/Emulators]
+[FYI: Run on 'Android Emulator' / 'Physical Device']
 ```
 
 
